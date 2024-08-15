@@ -1,4 +1,3 @@
-```markdown
 # Palate
 
 Welcome to **Palate** – a social media platform that connects people through their love of food. Think of it as Tinder or Bumble, but for food enthusiasts!
@@ -16,4 +15,3 @@ Welcome to **Palate** – a social media platform that connects people through t
 3. **Meet:** Chat with matches and plan your next foodie adventure.
 
 Join Palate and bring people closer, one meal at a time.
-```
