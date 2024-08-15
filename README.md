@@ -1,4 +1,6 @@
-# Palate
+<img src="palate.jpg" alt="Palate Logo" width="100" />
+
+# Palate  
 
 Welcome to **Palate** – a social media platform that connects people through their love of food. Think of it as Tinder or Bumble, but for food enthusiasts!
 
